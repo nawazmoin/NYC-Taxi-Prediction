@@ -181,7 +181,7 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 </tr>
 </table>
 
-<table border="1">
+<table>
 	<tr>
 		<th>Field Name</th>
 		<th>Description</th>
