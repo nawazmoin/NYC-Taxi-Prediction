@@ -181,7 +181,9 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 </tr>
 </table>
 
-<table>
+
+## Features in the dataset:
+<table border="1">
 	<tr>
 		<th>Field Name</th>
 		<th>Description</th>
@@ -240,8 +242,7 @@ We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be u
 		<br\>N= not a store and forward trip
 		</td>
 	</tr>
-
-	<tr>
+        <tr>
 		<td>Dropoff_longitude</td>
 		<td>Longitude where the meter was disengaged.</td>
 	</tr>
